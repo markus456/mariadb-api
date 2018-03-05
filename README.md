@@ -1,5 +1,6 @@
 # mariadb-api
-A JSON API implementation for MariaDB.
+
+A tiny JSON API implementation for MariaDB.
 
 ## Endpoints
 
