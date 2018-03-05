@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/markus456/mariadb-api",
   "author": "Markus Mäkelä",
-  "license": "BSD-new",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "express": "^4.16.2",
     "mysql": "^2.15.0",
