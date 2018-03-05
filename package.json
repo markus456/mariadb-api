@@ -1,0 +1,21 @@
+{
+  "name": "mariadb-api",
+  "version": "1.0.0",
+  "description": "MariaDB JSON API",
+  "main": "mariadb-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mariadb",
+    "json_api"
+  ],
+  "repository": "https://github.com/markus456/mariadb-api",
+  "author": "Markus Mäkelä",
+  "license": "BSD-new",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "yayson": "^2.0.8"
+  }
+}
