@@ -9,10 +9,15 @@ The current API consists of the following resource collection endpoints:
 * `/v1/users`
 * `/v1/tables`
 * `/v1/variables`
+* `/v1/partitions`
+* `/v1/redundant_keys`
 * `/v1/innodb_metrics`
 * `/v1/innodb_mutexes`
+* `/v1/innodb_no_pk_tables`
 
 Each endpoint conforms to the [JSON API specification](http://jsonapi.org/format/).
+
+You can get all the endpoints by calling the `/v1/endpoints` endpoint.
 
 ## Installation
 
